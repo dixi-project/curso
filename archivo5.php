@@ -1,15 +1,2 @@
-    <HTML>
-
-        <HEAD>
-
-             
-
-        </HEAD> 
-        <BODY>
-
-            <h1>Gerardo</h1>
-	    <h2>Guillermo</h2>
-
-        </BODY> 
-
-    </HTML>
+<h1>Nancy Eliseth Tapia Aragon</h1>
+<h2>Gerardo Guillermo Aparicio Rosendo</h2>
