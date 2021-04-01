@@ -1,0 +1,9 @@
+pwd- mostar la ruta que nos encontramos en ese momento
+mkdir- crear directorios
+ll- toda la informacion (mejor)
+cd. entrar a una carpeta
+touch- crear archivos 
+rm- borrar archivos
+cat- ver el contenido de un archivo
+ls- muestra lo que tiene una carpeta
+history- historia de los comandos ejecutados
