@@ -1,5 +1,5 @@
 Aqui realizare mi tarea
-Cambio eb la tarea 
+Cambio en la tarea 
 cambio nuevo
 Armando razo
 Nancy eliseth Tapia Aragon
