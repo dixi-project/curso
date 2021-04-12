@@ -20,3 +20,4 @@ Primer commit
 Segundo commit 
 
 Primer commit para amend
+Segunda linea para amend
